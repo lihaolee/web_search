@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="db" uuid="ccf786ec-85cb-4b33-b8cf-5b439546a7fd">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\BaiduNetdiskDownload\知识图谱项目实战案例\代码等资料\kgcar\kgcar\db.sqlite3</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="db [2]" uuid="83a6089a-0e5f-49ed-a6cf-bfdb4e52ef47">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\BaiduNetdiskDownload\知识图谱项目\code\kg\db.sqlite3</jdbc-url>
+    </data-source>
+  </component>
+</project>
